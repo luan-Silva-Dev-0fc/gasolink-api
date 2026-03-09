@@ -29,7 +29,7 @@ Rotas disponíveis:
 
 ---
 
-## 🛠️ Instalação
+##  Instalação
 
 1. Clone o repositório:
 
@@ -109,7 +109,7 @@ Escolha:
 
 ---
 
-## 📝 Código principal `functions/index.js`
+##  Código principal `functions/index.js`
 
 ```javascript
 const { onRequest } = require("firebase-functions/v2/https");
@@ -181,7 +181,7 @@ firebase deploy
 
 ---
 
-## ⚠️ Observações
+##  Observações
 
 - Node.js 20 é usado pois Node 18 foi descontinuado.  
 - Firebase Functions Gen2 permite maior escalabilidade e não trava como Gen1.  
@@ -189,7 +189,7 @@ firebase deploy
 
 ---
 
-## 📦 Licença
+##  Licença
 
 MIT License
 
